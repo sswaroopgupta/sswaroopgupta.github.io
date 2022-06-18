@@ -1,123 +1,27 @@
----
-layout: default
----
+# Soumya Swaroop Gupta
+pattern-olic
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+I am Multi-faceted software techie. In all the roles I have played, I have always looked for patterns of improvements. I am problem solver at heart.
 
-[Link to another page](./another-page.html).
+These are my 3 key takeaways in all these years of my work
+* Analysing the pros and cons and limitations of tools before choosing it.
+* Understand scope of effectiveness. Choose approaches/algorithms/design decisions that are most effective.
+* Using design patterns that make code easy to re-useable and maintain.
 
-There should be whitespace between paragraphs.
+### Analyse PROs and CONs before choosing a tool
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+![Analyse PROs and CONs](https://miro.medium.com/max/1400/0*J7-8FZQtNeRY-Od5.jpg)
 
-# Header 1
+Every tool/algorithm has pros and cons. We should have a basic understanding of the project needs and choose the tools that suits our needs. [Here is how I did it for the project that I was working on](https://sswaroop.medium.com/how-taiko-compares-to-other-browser-automation-tools-945e18ea1e22) to validate the claims made in the blog.
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+### Understand scope of effectiveness
 
-## Header 2
+Unit tests, Integration tests, Functional/UI tests are the most common kind of tests that the software community is familiar with. However, each have their scope where it can be used effectively. After analysing that we needed a differnt approach to write tests effectively, I wrote the [subcutaneous tests](https://github.com/getgauge/gauge-lsp-tests)
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+### Recognise anti-patterns and write maintainable code.
 
-### Header 3
+![Recognise Anti-pattern](https://gauge.org/assets/images/blog/gauge_blog_image_the-page-objects-anti-pattern-large.jpg)
 
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
-
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
-
-#### Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
-
-
-### Definition lists can be used with HTML syntax.
-
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```
+There are several design patterns that structure tests for re-use and maintainability. Here is my take on [recognising anti-patterns and writing maintainable test code](https://medium.com/getgauge/are-page-objects-anti-pattern-21b6e337880f)
+    
+> Some of my other blogs are available in [medium](https://sswaroop.medium.com/)
