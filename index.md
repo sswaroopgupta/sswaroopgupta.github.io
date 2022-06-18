@@ -1,12 +1,12 @@
-# Soumya Swaroop Gupta
+# 
 pattern-olic
 
 I am Multi-faceted software techie. In all the roles I have played, I have always looked for patterns of improvements. I am problem solver at heart.
 
-These are my 3 key takeaways in all these years of my work
+These are my 3 key takeaways in any project that I have worked on
 * Analysing the pros and cons and limitations of tools before choosing it.
 * Understand scope of effectiveness. Choose approaches/algorithms/design decisions that are most effective.
-* Using design patterns that make code easy to re-useable and maintain.
+* Use design patterns to make code easy, re-useable and maintainable.
 
 ### Analyse PROs and CONs before choosing a tool
 
